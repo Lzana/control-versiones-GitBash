@@ -15,5 +15,5 @@ tercer commit en la rama feature1
  
 Cuarto commit en la rama feature2.
 Otra línea más desde feature2.
-Primera línea de feature2
-Segunda línea de feature2
+
+Modificación final en main
