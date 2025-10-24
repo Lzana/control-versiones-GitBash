@@ -1,0 +1,15 @@
+ Este es mi primer commit 
+  
+git add datos.txt
+git comit -m primer comit archivo datos.txt creado 
+git push origio main
+ segunda linea añadida para el segundo commit 
+git add datos.txt
+git commit -m segunda linea agregada en commit
+git push origin main
+
+tercer commit en la rama feature1
+
+ 
+
+ 
