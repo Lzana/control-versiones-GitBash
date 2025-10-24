@@ -1,0 +1,25 @@
+commit 18a87d91fadf75ef2372bd3ed932262456ab3b16 (HEAD -> main, origin/main)
+Author: Lzana <elisabeth.lizana@inacapmail.cl>
+Date:   Sat Oct 25 01:31:28 2025 +0200
+
+    Quinto commit final
+
+commit dbfd80e64b7496d5aaaeb657b1e13d452a70cc81
+Author: Lzana <elisabeth.lizana@inacapmail.cl>
+Date:   Sat Oct 25 01:26:51 2025 +0200
+
+    Cuarto commit en feature2
+
+commit 901996c30985faef28d284db54a274ebb38106d0
+Author: Lzana <elisabeth.lizana@inacapmail.cl>
+Date:   Sat Oct 25 00:53:36 2025 +0200
+
+    Cuarto commit: nuevas líneas añadidas en la rama feature2
+
+commit 156de0e3872a8cb637deee836841ecc3cd7cac3f (origin/feature1, origin/HEAD)
+Author: Lzana <elisabeth.lizana@inacapmail.cl>
+Date:   Sat Oct 25 00:37:42 2025 +0200
+
+     tercer commit: modificacion en la rama feature1
+
+https://github.com/Lzana/control-versiones-GitBash.git
